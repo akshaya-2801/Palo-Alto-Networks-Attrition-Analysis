@@ -1,4 +1,4 @@
-# Palo-Alto-Networks-Attrition-Analysis
+# Palo Alto Networks Employee Attrition Dashboard
 
 An interactive Streamlit dashboard for analyzing employee attrition across departments, job roles, demographics, tenure, overtime, and business travel.
 
@@ -18,4 +18,8 @@ An interactive Streamlit dashboard for analyzing employee attrition across depar
 
 ## Dataset
 
-The dataset contains employee information used to analyze attrition patterns and identify potential workforce risk factors.
+The dataset used in this project contains employee information for analyzing attrition patterns and identifying potential workforce risk factors.
+
+### Dataset File
+
+[Palo Alto Networks Employee Attrition Dataset](./Palo%20Alto%20Networks.csv)
